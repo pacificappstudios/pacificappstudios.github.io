@@ -1,0 +1,23 @@
+Privacy Policy
+
+Last updated: November 10, 2026
+
+SleepyVolume (“we,” “us”) provides an Android app that adjusts device audio output locally (quietness, clarity, loud-sound limiting) and can play an optional cabin hum sound.
+
+What we do not do
+- We do not record, monitor, store, or upload the audio of apps you play (such as audiobooks or videos).
+- We do not create user accounts.
+
+Advertising
+- The free version may show ads through Google AdMob (banner and a first-launch app open ad).
+- Google may collect your device’s advertising ID and related device/app data to serve and measure ads.
+- You can remove ads with a one-time in-app purchase.
+
+Purchases
+- Payments for “Remove Ads” are processed by Google Play. We do not receive your full payment card details.
+
+Data on your device
+- The app may store local preferences on your phone (for example: privacy acknowledgment, whether ads were removed, and whether the first-launch ad was shown).
+
+Contact
+pacificappstudios@gmail.com
